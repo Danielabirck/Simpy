@@ -29,7 +29,7 @@ import simpy              # biblioteca de simulação
 random.seed(1000)         # semente do gerador de números aleatórios
 env = simpy.Environment() # cria o environment do modelo na variável 
 
-Resumo dos Conceitos
+### Resumo dos Conceitos
 
 env = simpy.Environment() - cria um Environment de simulação
 random.expovariate(lambd) - gera números aleatórios exponencialmente distribuídos, com taxa de ocorrência (eventos/unidade de tempo) igual a lambd
@@ -53,17 +53,17 @@ Esta disponibilidade de bibliotecas, bem como ser um software livre, torna o Sim
 
 ## Prós e Contras
 
-Prós
--Código aberto e livre (licença MIT);
--Diversas funções de bibliotecas de otimização, matemática e estatística podem ser incorporadas ao modelo;
+### Prós
+- Código aberto e livre (licença MIT);
+- Diversas funções de bibliotecas de otimização, matemática e estatística podem ser incorporadas ao modelo;
 -Permite a programação de lógicas sofisticadas, apoiando-se no Python (e suas bibliotecas);
 -Comunidade ativa de desenvolvedores e usuários que mantém a biblioteca atualizada;
 
-Contras
--Ausência de ferramentas para animação;
--Necessidade de se programar cada processo do modelo;
--Exige conhecimento prévio em Python;
--Não inclui um ambiente visual de desenvolvimento.
+### Contras
+- Ausência de ferramentas para animação;
+- Necessidade de se programar cada processo do modelo;
+- Exige conhecimento prévio em Python;
+- Não inclui um ambiente visual de desenvolvimento.
 
 
 
