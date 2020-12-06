@@ -9,7 +9,7 @@ SimPy (Simulation in Python) é um framework1 para a construção de modelos de 
 
 ### Conceitos Básicos
 
-O comportamento dos componentes ativos (como veículos, clientes ou mensagens) é modelado com processos. Todos os processos vivem em um ambiente. Eles interagem com o meio ambiente e entre si por meio de eventos.
+Simpy é uma biblioteca de simulação em que todos os processos estão em um ambiente. Ou seja, os processos interagem entre si e com o ambiente através de eventos.
 Os processos são descritos por geradores Python simples. Você pode chamá-los de função de processo ou método de processo, dependendo se é uma função normal ou método de uma classe. Durante sua vida, eles criam eventos e os geram para esperar que sejam acionados.
 Quando um processo produz um evento, o processo é suspenso. O SimPy retoma o processo, quando o evento ocorre (dizemos que o evento é acionado). Vários processos podem esperar pelo mesmo evento. O SimPy os retoma na mesma ordem em que geraram aquele evento.
 Um tipo de evento importante é o _timeout_. Eventos desse tipo são acionados após um determinado período de tempo (simulado).
