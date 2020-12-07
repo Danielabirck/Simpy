@@ -72,5 +72,3 @@ Esta disponibilidade de bibliotecas, bem como ser um software livre, torna o Sim
 
 
 
-
-
