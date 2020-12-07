@@ -60,6 +60,8 @@ Esta disponibilidade de bibliotecas, bem como ser um software livre, torna o Sim
 
 ### Exemplo
 Um tipo especial de recurso no SimPy é o container. Intuitivamente, um container seria um taque ou caixa em que se armazenam coisas. Você pode encher ou esvaziar em quantidade, como se fosse um tanque de água ou uma caixa de laranjas.
+Considere que um posto de gasolina possui um tanque com capacidade de 100  (ou 100.000 litros) de combustível e que o tanque já contém 50  armazenado.
+Criaremos uma função, enchimentoTanque, que enche o tanque com 50  sempre que um novo caminhão de reabastecimento de combustível chega ao posto:
 
 ![exemplo2](https://user-images.githubusercontent.com/75582692/101300576-d0e37100-3814-11eb-9923-e5a38acc7cf2.png)
 
