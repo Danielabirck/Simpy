@@ -58,10 +58,10 @@ Esta disponibilidade de bibliotecas, bem como ser um software livre, torna o Sim
 - Permite a programação de lógicas sofisticadas, apoiando-se no Python (e suas bibliotecas);
 - Comunidade ativa de desenvolvedores e usuários que mantém a biblioteca atualizada;
 
+### Exemplo
+Um tipo especial de recurso no SimPy é o container. Intuitivamente, um container seria um taque ou caixa em que se armazenam coisas. Você pode encher ou esvaziar em quantidade, como se fosse um tanque de água ou uma caixa de laranjas.
 
-
-
-
+![exemplo2](https://user-images.githubusercontent.com/75582692/101300576-d0e37100-3814-11eb-9923-e5a38acc7cf2.png)
 
 
 
