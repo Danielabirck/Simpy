@@ -51,7 +51,7 @@ Sob o aspecto funcional, SimPy se apresenta como uma biblioteca em Python e isso
 Esta disponibilidade de bibliotecas, bem como ser um software livre, torna o SimPy particularmente interessante para quem está desenvolvendo sua pesquisa acadêmica na área de simulação. O seu modelo provavelmente ficará melhor documentado e portanto mais fácil de ser compreendido, potencializando a divulgação dos resultados de sua pesquisa em dissertações, congressos e artigos científicos.
 
 
-## Prós e Contras
+## Prós
 
 ### Prós
 - Código aberto e livre (licença MIT);
@@ -59,11 +59,6 @@ Esta disponibilidade de bibliotecas, bem como ser um software livre, torna o Sim
 - Permite a programação de lógicas sofisticadas, apoiando-se no Python (e suas bibliotecas);
 - Comunidade ativa de desenvolvedores e usuários que mantém a biblioteca atualizada;
 
-### Contras
-- Ausência de ferramentas para animação;
-- Necessidade de se programar cada processo do modelo;
-- Exige conhecimento prévio em Python;
-- Não inclui um ambiente visual de desenvolvimento.
 
 
 
