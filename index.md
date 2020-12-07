@@ -53,7 +53,6 @@ Esta disponibilidade de bibliotecas, bem como ser um software livre, torna o Sim
 
 ## Prós
 
-### Prós
 - Código aberto e livre (licença MIT);
 - Diversas funções de bibliotecas de otimização, matemática e estatística podem ser incorporadas ao modelo;
 - Permite a programação de lógicas sofisticadas, apoiando-se no Python (e suas bibliotecas);
