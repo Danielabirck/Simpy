@@ -67,4 +67,4 @@ Criaremos uma função, enchimentoTanque, que enche o tanque com 50  sempre que 
 
 ![ottt1](https://user-images.githubusercontent.com/75582692/101348768-f8fdbf00-386a-11eb-929a-8f509d2b7c3b.jpeg)
 
-
+![ottt2](https://user-images.githubusercontent.com/75582692/101348836-13d03380-386b-11eb-93a6-4e9669232b57.jpeg)
